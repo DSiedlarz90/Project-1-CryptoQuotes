@@ -29,8 +29,8 @@ This is Project 1 of the Bootcamp. This website application is for your emotiona
 ![Demo of CryptoQuotes application.](./assets/CryptoQuotes.gif)
 
 ## Websites
-* Deployed Application: https://krissmith7.github.io/cryptoquotes/
-* Github Repository: https://github.com/KrisSmith7/cryptoquotes
+* Deployed Application: https://dsiedlarz90.github.io/Project-1-CryptoQuotes/
+* Github Repository: https://github.com/DSiedlarz90/Project-1-CryptoQuotes
 
 ## Links to portfolios with application on page
 * Austin Coats: https://aucoats.github.io/portfolio-challenge/
